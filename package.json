@@ -1,0 +1,20 @@
+{
+  "name": "aws-lambda-template",
+  "version": "0.0.1",
+  "description": "Template for AWS Lambda project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Movinga GMBH",
+  "license": "UNLICENSED",
+  "repository": "gitlab.movinga.com:mikhail.slyusarev/aws-lambda-template.git",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-istanbul": "^0.10.4",
+    "gulp-jasmine": "^2.4.2",
+    "jasmine-reporters": "^2.2.0",
+    "mockery": "^1.7.0"
+  }
+}
